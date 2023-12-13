@@ -1,0 +1,44 @@
+{
+	"setting": [
+		{
+			"name": "C#",
+			"file": [
+				{
+					"add": 1,
+					"replace": 0,
+					"old_str": [ "aaaa", "bbbb" ],
+					"replace_str": [ "txtcode.Text", "txtContent.Text" ],
+					"fname": "setting/jsoncode/Csharp/cc1.txt"
+				},
+				{
+					"add": 1,
+					"replace": 1,
+					"old_str": [ "aaaa", "bbbb" ],
+					"replace_str": [ "txtcode.Text", "txtContent.Text" ],
+					"fname": "setting/jsoncode/Csharp/cc2.txt"
+				}
+			]
+		},
+
+		{
+			"name": "python",
+			"file": [
+				{
+					"add": 1,
+					"replace": 0,
+					"old_str": [ "aaaa", "bbbb" ],
+					"replace_str": [ "txtcode.Text", "txtContent.Text" ],
+					"fname": "setting/jsoncode/python/cc1.txt"
+				},
+				{
+					"add": 1,
+					"replace": 0,
+					"old_str": [ "aaaa", "bbbb" ],
+					"replace_str": [ "txtcode.Text", "txtContent.Text" ],
+					"fname": "setting/jsoncode/python/cc2.txt"
+				}
+			]
+		}
+
+	]
+}
